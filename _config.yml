@@ -1,0 +1,6 @@
+title: Power Keys
+description: 借助强大易用且毫不冲突的快捷键彻底提升 Windows 使用效率！
+lang: zh-CN
+plugins:
+  - jekyll-redirect-from
+  - jemoji
