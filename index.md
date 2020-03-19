@@ -4,7 +4,7 @@ description: 借助强大易用且毫不冲突的快捷键彻底提升 Windows �
 redirect_from: /404
 ---
 
-## Power Keys 9.9.2
+## Power Keys 9.9.3
 
 > **借助强大易用且毫不冲突的快捷键**
 
