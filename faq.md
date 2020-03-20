@@ -68,6 +68,24 @@ redirect_from: /FAQ
 
 <br>
 
+**如何彻底卸载 Power Keys？**
+
+1. 在 Power Keys 的任务栏托盘菜单中取消勾选「开机自启」
+
+2. 退出 Power Keys
+
+3. 删除以下项目：
+
+- Power Keys 主程序
+
+- Power Keys 开始菜单快捷方式
+
+- `HKEY_CURRENT_USER\Software\szzhiyang\Power Keys` 注册表项
+
+- `%LocalAppData%\Power Keys` 文件夹
+
+<br>
+
 **遇到其他问题？**
 
 请加入 Power Keys 官方 QQ 群 `959910853` 反馈您遇到的问题。
