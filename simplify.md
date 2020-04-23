@@ -25,15 +25,8 @@ redirect_from: /Simplify
 
 <br>
 
-**如需更轻松地按下前缀为 `Ctrl` 的快捷键，请同时使用：**
-
-- **Power Keys 的「[空格编辑](\space)」功能**
-- **[Control Panel Plus](https://ControlPanelPlus.GitHub.io) 的「交换 `Ctrl` 键和大写锁定键」功能**
+**如需临时禁用该功能，请启用 [游戏模式](/game)；**
 
 <br>
 
----
-
-<br>
-
-**如需临时禁用该功能，请启用 [游戏模式](/game)。**
+**如需更轻松地按下前缀为 `Ctrl` 的快捷键，请充分使用 [空格编辑](/space)。**
