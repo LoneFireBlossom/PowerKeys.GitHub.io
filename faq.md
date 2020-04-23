@@ -82,7 +82,11 @@ redirect_from: /FAQ
 
 - `HKEY_CURRENT_USER\Software\szzhiyang\Power Keys` 注册表项
 
+> **该注册表项仅用于记录您是否禁用 [空格编辑](/space) 功能。**
+
 - `%LocalAppData%\Power Keys` 文件夹
+
+> **该文件夹存放着您亲自配置的 [光速启动](/launcher) 项，请注意备份。**
 
 <br>
 
