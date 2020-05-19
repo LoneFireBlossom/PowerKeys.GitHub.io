@@ -22,8 +22,8 @@ redirect_from: /404
 
 > **跃跃欲试？&ensp;→&emsp;[免费下载](/download)**
 
-> **遇到问题？&ensp;→&emsp;[获取解答](/faq)**
+> **陷入困境？&ensp;→&emsp;[获取解答](/faq)**
 
-> **喜欢软件？&ensp;→&emsp;[打赏作者](/donate)**
+> **爱不释手？&ensp;→&emsp;[打赏作者](/donate)**
 
 > **爱屋及乌？&ensp;→&emsp;[访问博客](https://szzhiyang.GitHub.io)**
