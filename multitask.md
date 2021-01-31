@@ -10,7 +10,7 @@ redirect_from: /Multitask
 
 <br>
 
-推荐 macOS 用户借助免费开源的 [**AltTab**](https://Alt-Tab-macOS.Netlify.App) 提升多任务处理效率。
+推荐 macOS 用户借助免费开源的 [**AltTab**](https://Alt-Tab-macOS.Netlify.App) 解放多任务处理效率。
 
 <br>
 

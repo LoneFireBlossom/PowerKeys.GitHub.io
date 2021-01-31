@@ -1,6 +1,6 @@
 ---
 title: Power Keys
-description: 借助高效好记且毫不冲突的快捷键提升 Windows 和 macOS 使用效率
+description: 借助高效好记且毫不冲突的快捷键彻底提升 Windows 和 macOS 使用效率
 redirect_from: /404
 ---
 
@@ -8,7 +8,7 @@ redirect_from: /404
 
 借助高效好记且毫不冲突的快捷键
 
-提升 Windows 和 macOS 使用效率
+解放 Windows 和 macOS 使用效率
 
 <br>
 
