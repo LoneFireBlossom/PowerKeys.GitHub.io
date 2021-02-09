@@ -5,7 +5,7 @@ redirect_from:
   - /Downloads
 ---
 
-## 下载 Power Keys
+## 免费下载 Power Keys
 
 > 开启高效舒适的 Windows 和 macOS 使用体验
 

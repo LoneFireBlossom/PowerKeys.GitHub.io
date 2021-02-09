@@ -28,4 +28,4 @@ redirect_from: /404
 
 <br>
 
-**&ensp;[下载](/download)&emsp;&emsp;[答疑](/faq)&emsp;&emsp;[打赏](/donate)&emsp;&emsp;[作者](https://GitHub.com/szzhiyang)**
+**[免费下载](/download)&emsp;&emsp;[打赏](/donate)&ensp;&emsp;[答疑](/faq)&ensp;&emsp;[作者](https://GitHub.com/szzhiyang)**
