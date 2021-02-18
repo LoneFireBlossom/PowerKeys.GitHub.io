@@ -20,7 +20,7 @@
       <p>
         <strong
           ><a href='{{ "/" | relative_url}}'
-            >← {{ site.title | site.github.repository_name | escape }}</a
+            >&lt; {{ site.title | site.github.repository_name | escape }}</a
           ></strong
         >
       </p>
@@ -29,9 +29,7 @@
   </header>
 
   <body>
-    <div class="container-md px-3 my-5 markdown-body">
-      {{ content }}
-    </div>
+    <div class="container-md px-3 my-5 markdown-body">{{ content }}</div>
   </body>
 
   <footer>
@@ -41,7 +39,7 @@
       <p>
         <strong
           ><a href='{{ "/" | relative_url}}'
-            >← {{ site.title | site.github.repository_name | escape }}</a
+            >&lt; {{ site.title | site.github.repository_name | escape }}</a
           ></strong
         >
       </p>
