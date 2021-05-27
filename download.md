@@ -11,11 +11,11 @@ redirect_from:
 
 <br>
 
-如果你使用 32 位 Windows 7 或更高版本，请下载 [**Power Keys 10.3 for Win32**](https://github.com/PowerKeys/PowerKeys/releases/download/latest/Power-Keys-x86.exe)。
+如果你使用 32 位 Windows 7 或更高版本，请下载 [**Power Keys 10.4 for Win32**](https://github.com/PowerKeys/PowerKeys/releases/download/latest/Power-Keys-x86.exe)。
 
 <br>
 
-如果你使用 64 位 Windows 7 或更高版本，请下载 [**Power Keys 10.3 for Win64**](https://github.com/PowerKeys/PowerKeys/releases/download/latest/Power-Keys-x64.exe)。
+如果你使用 64 位 Windows 7 或更高版本，请下载 [**Power Keys 10.4 for Win64**](https://github.com/PowerKeys/PowerKeys/releases/download/latest/Power-Keys-x64.exe)。
 
 <br>
 
