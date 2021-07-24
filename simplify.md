@@ -10,7 +10,7 @@ redirect_from: /Simplify
 
 <br>
 
-例如，按 Caps Lock + P 即可使用 Ctrl + Shift + Alt + P 或 ⌃⌥⇧⌘P 对应的功能。
+例如，按 **`Caps Lock + P`** 即可使用 **`Ctrl + Shift + Alt + P`** 或 **⌃⌥⇧⌘P** 对应的功能。
 
 <br>
 
@@ -31,4 +31,4 @@ redirect_from: /Simplify
 
 <br>
 
-如需更轻松地按下前缀为 Ctrl 或 ⌘ 的快捷键，请充分使用 [**空格编辑**](/space) 功能。
+如需更轻松地按下前缀为 **`Ctrl`** 或 **⌘** 的快捷键，请充分使用 [**空格编辑**](/space) 功能。
