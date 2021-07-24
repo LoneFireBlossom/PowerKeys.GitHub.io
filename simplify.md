@@ -6,20 +6,20 @@ redirect_from: /Simplify
 
 > 不费吹灰之力地按下复杂的快捷键
 
-> <small>`Windows ✔` `macOS 即将支持`</small>
+> <small>`Windows ✔` `macOS ✔`</small>
 
 <br>
 
-例如，按 **`Caps Lock + P`** 即可使用 **`Ctrl + Shift + Alt + P`** 对应的功能。
+例如，按 **`Caps Lock + P`** 即可使用 **`Ctrl + Shift + Alt + P`** 或 **`⌃⌥⇧⌘P`** 对应的功能。
 
 <br>
 
-| 复杂的前缀               | 简化后的前缀    |
-| :----------------------- | :-------------- |
-| **`Ctrl + Shift`**       | **`Esc`**       |
-| **`Ctrl + Alt`**         | **`Tab`**       |
-| **`Alt + Shift`**        | **`~`**         |
-| **`Ctrl + Shift + Alt`** | **`Caps Lock`** |
+|                  Windows |      macOS |          简化后 |
+| -----------------------: | ---------: | --------------: |
+|       **`Ctrl + Shift`** |   **`⇧⌘`** |       **`Esc`** |
+|         **`Ctrl + Alt`** |   **`⌥⌘`** |       **`Tab`** |
+|        **`Alt + Shift`** |   **`⌃⌘`** |         **`~`** |
+| **`Ctrl + Shift + Alt`** | **`⌃⌥⇧⌘`** | **`Caps Lock`** |
 
 <br>
 
@@ -31,4 +31,4 @@ redirect_from: /Simplify
 
 <br>
 
-如需更轻松地按下前缀为 **`Ctrl`** 的快捷键，请充分使用 [**空格编辑**](/space) 功能。
+如需更轻松地按下前缀为 **`Ctrl`** 或 **`⌘`** 的快捷键，请充分使用 [**空格编辑**](/space) 功能。

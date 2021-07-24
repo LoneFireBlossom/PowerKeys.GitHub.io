@@ -19,7 +19,7 @@ redirect_from:
 
 <br>
 
-如果你使用 macOS Catalina 或 Big Sur，请先安装免费开源的 [**Karabiner-Elements**](https://karabiner-elements.pqrs.org/) 再 Import 和 Enable [**Power Keys 4.2 for macOS**](karabiner://karabiner/assets/complex_modifications/import?url=https://powerkeys.github.io/powerkeys.json)。
+如果你使用 macOS Catalina 或 Big Sur，请先安装免费开源的 [**Karabiner-Elements**](https://karabiner-elements.pqrs.org/) 再 Import 和 Enable [**Power Keys 5.0 for macOS**](karabiner://karabiner/assets/complex_modifications/import?url=https://powerkeys.github.io/powerkeys.json)。
 
 <br>
 
