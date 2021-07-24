@@ -6,11 +6,11 @@ redirect_from: /Multitask
 
 > 多任务处理从未如此高效舒适
 
-> <small>`Windows ✔` `macOS ✘`</small>
+> <small>`Windows ✔` `macOS ✔`</small>
 
 <br>
 
-推荐 macOS 用户借助免费开源的 [**AltTab**](https://Alt-Tab-macOS.Netlify.App) 解放多任务处理效率。
+在 Windows 上：
 
 <br>
 
@@ -35,6 +35,22 @@ redirect_from: /Multitask
 | Esc + Caps Lock      | 取消置顶窗口                   |
 | F1 + Caps Lock       | 置顶窗口                       |
 | F2 ~ F12 + Caps Lock | 置顶窗口并使其拥有不同的透明度 |
+
+<br>
+
+---
+
+<br>
+
+在 macOS 上，如果你通过 [**光速启动**](/launcher) 为某个 App 配置了快捷键，那么你可以按该快捷键立即切换到该 App 以及它的不同窗口。
+
+例如，假设你已经通过 [**光速启动**](/launcher) 为 Safari 浏览器配置了 **`F1 + S`** 快捷键：
+
+- 无论你当前处于哪个 App，你只需按 **`F1 + S`** 即可切换到 Safari 浏览器。
+
+- 如果 Safari 浏览器有两个或更多窗口，并且按 **`F1 + S`** 切换到的窗口不是你想去的那个，那么请不要松开 **`F1`** 键、反复地按 **`S`** 键以切换 Safari 浏览器的不同窗口，直到切换至你想去的窗口为止。
+
+你可以将上述例子中的 Safari 浏览器替换为任意有窗口的 App、**`F1`** 替换为 **`F1`** ~ **`F12`** 的任意一个、**`S`** 替换为 26 个字母和 10 个阿拉伯数字中的任意一个。
 
 <br>
 
