@@ -21,6 +21,8 @@ redirect_from:
 
 4. 右击 Power Keys 任务栏托盘图标以访问其所有菜单
 
+5. 体验所有功能！
+
 <br>
 
 如果你使用 macOS：
@@ -29,10 +31,8 @@ redirect_from:
 
 2. Import 和 Enable [**Power Keys 5.0**](karabiner://karabiner/assets/complex_modifications/import?url=https://powerkeys.github.io/powerkeys.json)
 
-<br>
-
-**完成后，请尝试所有功能。**
+3. 体验所有功能！
 
 <br>
 
-还可以借助 [**光速启动**](/launcher) 功能为本页面设置快捷键，以便一键检查更新。
+借助 [**光速启动**](/launcher) 功能为本页面设置快捷键，即可一键检查更新。
