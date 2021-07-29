@@ -28,7 +28,7 @@ redirect_from: /Numpad
 
 以便更加高效地输入
 
-价格、[色值](https://www.baidu.com/s?wd=色值)、百分比或 [十六进制数](https://www.baidu.com/s?wd=十六进制数)。
+价格、[**色值**](https://www.baidu.com/s?wd=色值)、百分比或 [**十六进制数**](https://www.baidu.com/s?wd=十六进制数)。
 
 <br>
 

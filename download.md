@@ -11,23 +11,17 @@ redirect_from:
 
 <br>
 
-如果你使用 32 位 Windows 7 或更高版本，请下载 [**Power Keys 10.4 for Win32**](https://github.com/PowerKeys/PowerKeys/releases/download/latest/Power-Keys-x86.exe)。
+如果你使用 Windows：
 
-<br>
+1. 下载 [**Power Keys 10.4 for Windows**](https://github.com/PowerKeys/PowerKeys/releases/download/latest/Power-Keys-x64.exe) 主程序
 
-如果你使用 64 位 Windows 7 或更高版本，请下载 [**Power Keys 10.4 for Win64**](https://github.com/PowerKeys/PowerKeys/releases/download/latest/Power-Keys-x64.exe)。
+2. 将主程序添加到杀毒软件的白名单里（360 安全软件还必须禁用驱动防护）
 
-<br>
+3. 双击运行主程序，同意其提升权限
 
-如果你使用 macOS Catalina 或 Big Sur，请先安装免费开源的 [**Karabiner-Elements**](https://karabiner-elements.pqrs.org/) 再 Import 和 Enable [**Power Keys 5.0 for macOS**](karabiner://karabiner/assets/complex_modifications/import?url=https://powerkeys.github.io/powerkeys.json)。
+4. 右击 Power Keys 任务栏托盘图标以访问所有菜单
 
-<br>
-
----
-
-<br>
-
-**推荐你使用 [光速启动](/launcher) 功能为本下载页面设置快捷键，以便检查更新。**
+5. 跟随官网了解并尝试所有功能
 
 <br>
 
@@ -35,12 +29,18 @@ redirect_from:
 
 <br>
 
-**下载 Windows 版 Power Keys 后，请务必：**
+如果你使用 macOS：
 
-1. **将主程序添加到杀毒软件的白名单里（如果你使用 360 安全软件，你必须额外禁用 360 驱动防护）**
+1. 安装最新版 [**Karabiner-Elements**](https://karabiner-elements.pqrs.org/)
 
-2. 双击运行主程序，同意 Power Keys 提升权限
+2. Import 和 Enable [**Power Keys 5.0 for macOS**](karabiner://karabiner/assets/complex_modifications/import?url=https://powerkeys.github.io/powerkeys.json)
 
-3. 右击 Power Keys 的任务栏托盘图标，了解其菜单的所有选项
+3. 跟随官网了解并尝试所有功能
 
-4. 仔细通读帮助文档，逐一了解并尝试 Power Keys 的所有功能
+<br>
+
+---
+
+<br>
+
+推荐你使用 [光速启动](/launcher) 功能为本下载页面设置快捷键，以便检查更新。
