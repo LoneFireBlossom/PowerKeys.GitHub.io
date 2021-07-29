@@ -13,34 +13,26 @@ redirect_from:
 
 如果你使用 Windows：
 
-1. 下载 [**Power Keys 10.4 for Windows**](https://github.com/PowerKeys/PowerKeys/releases/download/latest/Power-Keys-x64.exe) 主程序
+1. 下载 [**Power Keys 10.4 for Windows**](https://github.com/PowerKeys/PowerKeys/releases/download/latest/Power-Keys-x64.exe)
 
 2. 将主程序添加到杀毒软件的白名单里（360 安全软件还必须禁用驱动防护）
 
 3. 双击运行主程序，同意其提升权限
 
-4. 右击 Power Keys 任务栏托盘图标以访问所有菜单
+4. 右击 Power Keys 任务栏托盘图标以访问其所有菜单
 
-5. 跟随官网了解并尝试所有功能
-
-<br>
-
----
+5. 跟随官网上手所有功能
 
 <br>
 
 如果你使用 macOS：
 
-1. 安装最新版 [**Karabiner-Elements**](https://karabiner-elements.pqrs.org/)
+1. 确保安装最新版 [**Karabiner-Elements**](https://karabiner-elements.pqrs.org/)
 
 2. Import 和 Enable [**Power Keys 5.0 for macOS**](karabiner://karabiner/assets/complex_modifications/import?url=https://powerkeys.github.io/powerkeys.json)
 
-3. 跟随官网了解并尝试所有功能
+3. 跟随官网上手所有功能
 
 <br>
 
----
-
-<br>
-
-推荐你使用 [光速启动](/launcher) 功能为本下载页面设置快捷键，以便检查更新。
+借助 [光速启动](/launcher) 功能为本页面设置快捷键，即可一键检查更新。
