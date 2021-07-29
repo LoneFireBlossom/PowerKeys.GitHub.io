@@ -32,7 +32,3 @@ redirect_from:
 2. Import 和 Enable [**Power Keys 5.0**](karabiner://karabiner/assets/complex_modifications/import?url=https://powerkeys.github.io/powerkeys.json)
 
 3. 体验所有功能！
-
-<br>
-
-借助 [**光速启动**](/launcher) 功能为本页面设置快捷键，即可一键检查更新。
