@@ -27,8 +27,12 @@ redirect_from:
 
 如果你使用 macOS：
 
-1. 确保安装最新版 [**Karabiner-Elements**](https://karabiner-elements.pqrs.org/)
+1. 确保安装最新版 [**Karabiner-Elements**](https://karabiner-elements.pqrs.org/) 并根据其指引启用所需权限
 
 2. Import 和 Enable [**Power Keys 5.0**](karabiner://karabiner/assets/complex_modifications/import?url=https://powerkeys.github.io/powerkeys.json)
 
-3. 体验所有功能！
+3. 取消勾选系统输入法偏好设置的「使用大写锁定键切换“ABC”输入模式」
+
+   > 为确保 Power Keys 正常工作，你需要通过短按 caps lock 键切换大小写、shift 键切换中英文
+
+4. 体验所有功能！

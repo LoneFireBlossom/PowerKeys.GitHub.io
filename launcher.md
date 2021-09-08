@@ -6,7 +6,7 @@ redirect_from: /Launcher
 
 > 用快捷键启动任何东西
 
-> <small>`Windows ✔` `macOS ✔` </small>
+> 兼容 Windows 和 macOS
 
 <br>
 

@@ -6,7 +6,7 @@ redirect_from: /Numpad
 
 > 数据输入从未如此高效舒适
 
-> <small>`Windows ✔` `macOS ✔`</small>
+> 兼容 Windows 和 macOS
 
 <br>
 

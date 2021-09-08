@@ -6,7 +6,7 @@ redirect_from: /PrtSc
 
 > 再也不用担心截图软件和录屏软件的全局快捷键不够用了
 
-> <small>`Windows ✔` `macOS ✘`</small>
+> 只兼容 Windows
 
 <br>
 

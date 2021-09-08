@@ -6,7 +6,7 @@ redirect_from: /Game
 
 > 心无旁骛地打游戏
 
-> <small>`Windows ✔` `macOS ✘`</small>
+> 只兼容 Windows
 
 <br>
 

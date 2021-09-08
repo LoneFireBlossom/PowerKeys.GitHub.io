@@ -6,7 +6,7 @@ redirect_from: /Simplify
 
 > 不费吹灰之力地按下复杂的快捷键
 
-> <small>`Windows ✔` `macOS ✔`</small>
+> 兼容 Windows 和 macOS
 
 <br>
 

@@ -6,7 +6,7 @@ redirect_from: /Win
 
 > 迅速完成常见 Windows 操作
 
-> <small>`Windows ✔` `macOS ✘`</small>
+> 只兼容 Windows
 
 <br>
 

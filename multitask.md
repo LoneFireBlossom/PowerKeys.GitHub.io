@@ -6,7 +6,7 @@ redirect_from: /Multitask
 
 > 多任务处理从未如此高效舒适
 
-> <small>`Windows ✔` `macOS ✔`</small>
+> 兼容 Windows 和 macOS
 
 <br>
 
