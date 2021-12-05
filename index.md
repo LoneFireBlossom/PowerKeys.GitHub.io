@@ -16,11 +16,11 @@ redirect_from: /404
 
 [**空格编辑**](/space) <sup>「按住空格键即可移动打字光标」</sup>
 
+[**光速切换**](/multitask) <sup>「指哪打哪地切换窗口」</sup>
+
 [**数字秒输**](/numpad) <sup>「在主键区使用数字小键盘」</sup>
 
 [**Win 键增强**](/win) <sup>「切歌、清空回收站等」</sup>
-
-[**多任务处理**](/multitask) <sup>「迅速切换任务」</sup>
 
 [**快捷键简化**](/simplify) <sup>「轻松按下复杂的快捷键」</sup>
 

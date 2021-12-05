@@ -13,7 +13,7 @@ redirect_from:
 
 如果你使用 Windows：
 
-1. 下载 [**Power Keys 10.4**](https://github.com/PowerKeys/PowerKeys/releases/download/latest/Power-Keys-x64.exe)
+1. 下载 [**Power Keys 11.2**](https://github.com/PowerKeys/PowerKeys/releases/download/latest/Power-Keys-x64.exe)
 
 2. 将主程序添加到杀毒软件的白名单里（360 安全软件还必须禁用驱动防护）
 

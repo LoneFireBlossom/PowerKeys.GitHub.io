@@ -8,16 +8,6 @@ redirect_from: /FAQ
 
 <br>
 
-**为什么 Windows 版 Power Keys 运行时快捷键 `Win + Tab` 貌似失效了？**
-
-因为 Power Keys 的多任务处理功能改变了 **`Win + Tab`** 的原本功能，详见 [**多任务处理**](/multitask) 章节。
-
-<br>
-
----
-
-<br>
-
 **为什么我的 Windows 版或 macOS 版 Power Keys 的 [光速启动](/luancher) 不起作用？**
 
 因为你没有正确设置键盘的 [**Fn**](https://www.baidu.com/s?wd=Fn键) 模式。你必须能在不按 **`Fn`** 键的情况下使用 **`F1`** ~ **`F12`** 原本的功能，才能正常使用 **光速启动**。
