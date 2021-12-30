@@ -1,4 +1,4 @@
-更改了原Power Keys中的「快捷键简化」为：
+更改了原Power Keys中的「快捷键简化 Mac」为：
 - Tab改成左shift+左ctrl+左option
 - ～改成左shift+左ctrl+左command
 - esc改成左shift+左option+左command 
