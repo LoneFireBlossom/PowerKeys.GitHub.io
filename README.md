@@ -5,5 +5,5 @@
 
 安装链接为
 ```
-karabiner://karabiner/assets/complex_modifications/import?url=https://github.com/LoneFireBlossom/PowerKeys.GitHub.io/blob/26edb623046f148eec6d9f1b43eac5c2e9e310bc/powerkeys.json
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/LoneFireBlossom/PowerKeys.GitHub.io/master/powerkeys.json
 ```
