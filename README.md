@@ -17,3 +17,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 ```
 karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/LoneFireBlossom/PowerKeys.GitHub.io/master/powerkeys%20for%20no-TouchBar%20Mac.json
 ```
+好像用这个链接会闪退？那就下载下来直接放到karabiner的设置文件夹里吧
+```
+/Users/lonefireblossom/.config/karabiner/assets/complex_modifications/
+```
